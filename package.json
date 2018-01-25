@@ -1,0 +1,9 @@
+{
+  "name": "PageMaker",
+  "version": "1.0.0",
+  "description": "Basic WebPage Maker",
+  "main": "index.js",
+  "repository": "git@github.com:Keloran/PageMaker.git",
+  "author": "Keloran <keloran@devebox.info>",
+  "license": "MIT"
+}
