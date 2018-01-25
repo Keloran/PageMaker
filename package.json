@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:Keloran/PageMaker.git",
   "author": "Keloran <keloran@devebox.info>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^8.4.0"
+  }
 }
